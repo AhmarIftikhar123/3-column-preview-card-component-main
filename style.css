@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@1,9..40,200&family=Epilogue&family=Hanken+Grotesk:wght@200&family=Inter:wght@200&family=Josefin+Sans:wght@200;300&family=Kumbh+Sans:wght@300&family=Lexend+Deca:wght@300;400&family=Libre+Franklin:wght@200&family=Manrope:wght@200&family=Outfit:wght@200&family=Plus+Jakarta+Sans:wght@200&family=Poppins:wght@200&family=Red+Hat+Display&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@300&family=DM+Sans:ital,opsz,wght@1,9..40,200&family=Epilogue&family=Hanken+Grotesk:wght@200&family=Inter:wght@200&family=Josefin+Sans:wght@200;300&family=Kumbh+Sans:wght@300&family=Lexend+Deca:wght@300;400&family=Libre+Franklin:wght@200&family=Manrope:wght@200&family=Outfit:wght@200&family=Plus+Jakarta+Sans:wght@200&family=Poppins:wght@200&family=Red+Hat+Display&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(0, 0%, 95%);
+}
+.box1{
+    background-color: hsl(31, 77%, 52%);
+}
+.box2{
+    background-color:hsl(184, 100%, 22%) ;
+}
+.box3{
+    background-color: hsl(179, 100%, 13%);
+}
+.box1 h2 .box2 h2,.box3 h3,.btn{
+    font-family: 'Lexend Deca', sans-serif;
+}
+h2,button{
+    color: hsl(0, 0%, 95%);
+}
+
+p{
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Big Shoulders Display', sans-serif;
+}
+
